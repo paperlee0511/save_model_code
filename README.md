@@ -1,6 +1,7 @@
 # Tree
 
-MakeModel_snack/
+MakeModel_snack
+
 ├── .venv/
 │   ├── Lib/
 │   ├── Scripts/
