@@ -1,0 +1,10 @@
+ultralytics==8.3.59
+PyYAML>=5.4.0
+torch>=1.9.0
+openvino>=2024.0.0
+nncf>=2.9.0
+torch>=2.1
+torchvision>=0.16
+onnx
+opencv-python
+requests
